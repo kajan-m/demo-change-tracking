@@ -16,3 +16,5 @@ jobs:
           user: "${{ github.actor }}"
           description: "Automated Marker via Github Actions"
           deploymentType: "OTHER"
+          changelog: "https://github.com/kajan-m/demo-change-tracking/commit/58a6033077b4f595be734075253d2094e9787213"
+          deeplink: "https://issues.newrelic.com/browse/TP-17208"
